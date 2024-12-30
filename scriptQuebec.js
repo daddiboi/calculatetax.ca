@@ -81,7 +81,7 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
 //god
 
 // god mode on
-// Federal tax brackets and rates for 2024
+// Federal tax brackets and rates for 2025
 const federalTaxBrackets = [
   { income: 50197, taxRate: 0.15 },
   { income: 100392, taxRate: 0.205 },
@@ -90,7 +90,7 @@ const federalTaxBrackets = [
   { income: Infinity, taxRate: 0.33 }
 ];
 
-// Provincial tax brackets and rates for 2024 in Ontario
+// Provincial tax brackets and rates for 2025 in Ontario
 
 const provincialTaxBracketsOntario = [
 
